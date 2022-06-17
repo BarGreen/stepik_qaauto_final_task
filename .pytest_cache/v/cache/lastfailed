@@ -82,5 +82,6 @@
   "test_product_page.py::test_guest_cant_see_success_message[e6]": true,
   "test_product_page.py::test_guest_cant_see_success_message[r4]": true,
   "test_product_page.py::test_guest_cant_see_success_message[01]": true,
-  "test_product_page.py::test_message_disappeared_after_adding_product_to_basket[http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/?promo=offer0]": true
+  "test_product_page.py::test_message_disappeared_after_adding_product_to_basket[http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/?promo=offer0]": true,
+  "test_main_page.py::test_guest_can_go_to_login_page[http://selenium1py.pythonanywhere.com]": true
 }

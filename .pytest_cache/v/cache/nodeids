@@ -1,5 +1,6 @@
 [
   "test_main_page.py::test_guest_can_go_to_login_page",
+  "test_main_page.py::test_guest_cant_see_product_in_basket_opened_from_main_page",
   "test_product_page.py::test_guest_can_add_product_to_basket",
   "test_product_page.py::test_guest_can_add_product_to_basket[http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/?promo=offer0]",
   "test_product_page.py::test_guest_can_add_product_to_basket[http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/?promo=offer1]",
@@ -12,6 +13,7 @@
   "test_product_page.py::test_guest_can_add_product_to_basket[http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/?promo=offer8]",
   "test_product_page.py::test_guest_can_add_product_to_basket[http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/?promo=offer9]",
   "test_product_page.py::test_guest_can_go_to_login_page_from_product_page[http://selenium1py.pythonanywhere.com/en-gb/catalogue/the-city-and-the-stars_95/]",
+  "test_product_page.py::test_guest_cant_see_product_in_basket_opened_from_main_page",
   "test_product_page.py::test_guest_cant_see_success_message",
   "test_product_page.py::test_guest_cant_see_success_message[-0]",
   "test_product_page.py::test_guest_cant_see_success_message[-1]",
