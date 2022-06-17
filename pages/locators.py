@@ -13,3 +13,4 @@ class ProductPageLocators():
     BOOK_STORE_PRICE = (By.CSS_SELECTOR, "div.col-sm-6.product_main > p")
     BOOK_BASKET_NAME = (By.CSS_SELECTOR, "div.alertinner > strong")
     BOOK_BASKET_PRICE = (By.CSS_SELECTOR, "div.alert.alert-safe.alert-noicon.alert-info:nth-child(3) strong")
+    SUCCESS_MESSAGE = (By.CSS_SELECTOR, "#messages div:nth-child(1)")
