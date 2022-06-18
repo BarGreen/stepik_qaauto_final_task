@@ -52,7 +52,6 @@ class BasePage():
         assert self.is_element_present(*BasePageLocators.USER_ICON), "User icon is not presented," \
                                                                     " probably unauthorised user"
 
-
     def solve_quiz_and_get_code(self):
         alert = self.browser.switch_to.alert
         x = alert.text.split(" ")[2]
@@ -66,3 +65,4 @@ class BasePage():
             alert.accept()
         except NoAlertPresentException:
             print("No second alert presented")
+            
